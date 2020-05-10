@@ -4,4 +4,4 @@
 
 - Leyendo los datos de un formulario, colocandolos en el state y almacenandolos en LocalStorage.
 
-- Link al proyecto [clicl aqui](https://determined-turing-259985.netlify.app).
+- Link al proyecto [click aqui](https://determined-turing-259985.netlify.app).
